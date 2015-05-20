@@ -1,0 +1,17 @@
+##############################
+## Alias
+##############################
+alias gp='gulp'
+alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
+
+##############################
+## Git Alias
+##############################
+alias glp='git lg'
+alias gs='git status'
+alias ga='git add'
+alias gau='git add -u .'
+alias gcm='git commit -m '
+alias gpa='git push --all'
+alias gpm='git push -u origin master'
+alias gpd='git push -u origin develop'
